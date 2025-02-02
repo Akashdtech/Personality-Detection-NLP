@@ -1,0 +1,36 @@
+# General
+*.pyc
+__pycache__
+.ipynb_checkpoints
+*.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# Data files
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.hdf5
+*.npy
+*.pkl
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Output files
+*.out
+*.err
+
+# Credentials
+*.env
+*.key
+*.secret
+
+# Jupyter Notebook specific
+.ipynb_checkpoints/
